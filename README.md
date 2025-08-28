@@ -1,10 +1,10 @@
 # Matrix
-A simple c++ projects implementing operations with matrices.
+A simple c++ projects implementing linear algebra operations with matrices.
 
-##Current features
-- [DONE] Performs fiagonalization of a given matrix
-- [DONE] Computes determinant of a given matrix
-- [DONE] Added printing function to Wolfram Mathematica sytax
-- [TODO] Compute inverse
-- [TODO] Study the associated linear system
+## Current features
+- [x] Performs diagonalization of a given matrix
+- [x] Computes determinant of a given matrix
+- [x] Added printing function to Wolfram Mathematica sytax
+- [ ] Compute inverse
+- [ ] Study the associated linear system
 
